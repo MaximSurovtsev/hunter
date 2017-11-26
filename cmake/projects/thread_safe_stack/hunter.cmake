@@ -18,7 +18,7 @@ hunter_add_version(
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
 
 hunter_cmake_args(
-    print
+    thread_safe_stack
     CMAKE_ARGS
     BUILD_EXAMPLES=NO
     BUILD_TESTS=NO
