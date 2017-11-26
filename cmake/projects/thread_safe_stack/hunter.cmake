@@ -6,7 +6,7 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
     PACKAGE_NAME
-    print
+    thread_safe_stack
     VERSION
     "0.1.0.0"
     URL
