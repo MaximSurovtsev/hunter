@@ -12,7 +12,7 @@ hunter_add_version(
     URL
     "https://github.com/MaximSurovtsev/thread_safe_stack/archive/0.0.1.tar.gz"
     SHA1
-    bf07e311e0adc48bda6a4e0fa3d7985a36930e8e
+    4e75d708f0015faa6ea71c6e66fac5a5cd82379f
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
