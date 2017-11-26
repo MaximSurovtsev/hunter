@@ -8,7 +8,7 @@ hunter_add_version(
     PACKAGE_NAME
     thread_safe_stack
     VERSION
-    "0.1.0.0"
+    "0.0.1"
     URL
     "https://github.com/MaximSurovtsev/thread_safe_stack/archive/v0.0.1.tar.gz"
     SHA1
